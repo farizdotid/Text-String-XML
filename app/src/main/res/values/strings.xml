@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Text String</string>
+    <string name="example_default">Farizdotid - Tutorial Pemrograman Android Bahasa Indonesia</string>
+    <string name="example_bold"><b>Farizdotid - Tutorial Pemrograman Android Bahasa Indonesia</b></string>
+    <string name="example_italic"><i>Farizdotid - Tutorial Pemrograman Android Bahasa Indonesia</i></string>
+    <string name="example_underline"><u>Farizdotid - Tutorial Pemrograman Android Bahasa Indonesia</u></string>
+    <string name="example_mix"><b>Farizdotid</b> - <i>Tutorial Pemrograman Android</i> <u>Bahasa Indonesia</u></string>
+    <string name="example_mix_color"><b><font color='#1abc9c'>Farizdotid</font></b> - <i><font color='#3498db'>Tutorial Pemrograman Android</font></i> <u><font color='#c0392b'>Bahasa Indonesia</font></u></string>
+    <string name="title_default">Default :</string>
+    <string name="title_bold">Bold :</string>
+    <string name="title_italic">Italic :</string>
+    <string name="title_underline">Underline</string>
+    <string name="title_mix">Mix :</string>
+    <string name="title_mix_color">Mix Color :</string>
+</resources>
