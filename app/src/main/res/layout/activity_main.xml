@@ -90,4 +90,18 @@
         android:layout_marginTop="4dp"
         android:textSize="18sp"
         android:text="@string/example_mix_color"/>
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="16dp"
+     android:textSize="14sp"
+     android:text="@string/title_by_case_sign_up"/>
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="4dp"
+     android:textSize="18sp"
+     android:text="@string/example_by_case_sign_up"/>
 </LinearLayout>
